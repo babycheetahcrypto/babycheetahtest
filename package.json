@@ -1,0 +1,24 @@
+{
+  "name": "baby-cheetah-crypto",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "framer-motion": "^6.5.1",
+    "lucide-react": "^0.244.0",
+    "next": "13.4.7",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.3.1",
+    "@types/react": "18.2.14",
+    "@types/react-dom": "18.2.6",
+    "typescript": "5.1.3"
+  }
+}
